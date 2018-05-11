@@ -11,3 +11,6 @@ A list of useful docker commands for all the stages of containerization
   * Delete every Docker image
     
     ```docker rmi -f $(docker images -q)```
+
+# Resources
+  * https://davidwalsh.name/docker-remove-all-images-containers
