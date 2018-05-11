@@ -1,7 +1,7 @@
 # Description
 A list of useful docker commands for all the stages of containerization
 
-# Delete:
+## Delete:
   * Delete every Docker containers:
     
     * NOTE: _Must be run first because images are attached to containers_
