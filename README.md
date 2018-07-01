@@ -13,6 +13,7 @@ A list of useful docker commands for all the stages of containerization
     ```docker rmi -f $(docker images -q)```
     
   * Stop all Docker containers:
+  
     ```docker kill $(docker ps -q)```
 
 # Resources
